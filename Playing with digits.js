@@ -28,7 +28,6 @@
 // n = 46288; p = 3 ---> 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688 = 46288 * 51
 
 
-
 // My solution
 // 1- Split Numbers 
 // 2- Power numbers 
